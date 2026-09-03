@@ -1,8 +1,4 @@
-# AI-Sales-Intelligence-Platform
-an AI generated sales intelligence platform that automates lead generation,scoring,and outreach.
-Got it — that gives me the core concept. I’d position it as an **AI-powered Sales Intelligence & Automation web application** that takes prospects from discovery → scoring → personalized outreach.
 
-Here’s a strong README draft you can use now:
 
 # 🤖 AI Sales Intelligence Platform
 
